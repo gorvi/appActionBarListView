@@ -1,0 +1,4 @@
+/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/classes/debug
+/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-f0316c648e65b371b58cb568e6ff817e65a0369f.jar
+/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-31fe805e151b68ac6193d9aa3fdd52d6fe927dd5.jar
+/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/bmob_v3.1.1beta-69d3d07eb7bf523a5251284a5d7b5036d959cdfc.jar

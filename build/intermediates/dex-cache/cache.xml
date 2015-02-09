@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/libs/picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/picasso-2.2.0-f0316c648e65b371b58cb568e6ff817e65a0369f.jar" />
+    </item>
+    <item
+        jar="/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/libs/bmob_v3.1.1beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b70cca78172af77118481a3f097b542e55e55a6">
+        <dex dex="/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/bmob_v3.1.1beta-69d3d07eb7bf523a5251284a5d7b5036d959cdfc.jar" />
+    </item>
+    <item
+        jar="/Users/gaohongwei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/gaohongwei/Documents/workspace/as/appActionBarListView/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-31fe805e151b68ac6193d9aa3fdd52d6fe927dd5.jar" />
+    </item>
+
+</items>
